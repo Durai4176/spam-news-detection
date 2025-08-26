@@ -113,11 +113,3 @@ if df is not None:
             st.write(f"Prediction: {prediction_label}")
         else:
             st.error("Please enter a message to classify.")
-
-
-
-
-
-
-
-
